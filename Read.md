@@ -17,6 +17,12 @@ Routes
   package-lock
   package.json
 
+Git Set Up
+git init
+git add . && git commit -m "initial commit"
+create a repository
+run the commands for pushing an existing repository in terminal
+
 Creating a Firestore Database
 Create a firestore database following the steps here
 Create a credentials file to store your private key from firestore
